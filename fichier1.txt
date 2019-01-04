@@ -1,1 +1,1 @@
-Ceci est un texte modifié.
+Ceci est un texte re-modifié.
